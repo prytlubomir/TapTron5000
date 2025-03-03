@@ -1,13 +1,13 @@
 # About TapTron5000
 
-TapTron5000 is multithreading automatic clicker.
+TapTron5000 is a multithread autoclicker.
 
 # Instalation
 
-You can install TapTron5000 in 3 different ways:
+You can install TapTron5000 in three ways:
 * Install using `git` in terminal or command line
-* Install using desktop client
-* Install from archive
+* Install using desktop `GitHub` client
+* Install from the archive
 In this section we will look at all three.
 
 ## Using `git` in terminal
@@ -23,13 +23,13 @@ Install git on `Ubuntu`: `apt-get install git`
 
 Click [here](https://git-scm.com/download/win). to install `git` on `Windows`.
 
-## Using desktop client
+## Using GitHub Desktop
 
 I'm too lazy to write this. Maybe I'll do it later.
 
-## Install from archive
+## Install from the archive
 
-First, you need to download archive.
+First, you need to download the archive.
 1. Click on the `Code` button.
 1. In popup window click `Download ZIP`.
 ![How to download archive](https://sites.northwestern.edu/researchcomputing/files/2021/05/github.png)
