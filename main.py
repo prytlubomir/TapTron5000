@@ -66,7 +66,7 @@ def _validate_entry(value: str) -> bool:
 
     Inner function for validate entry input.
     Return True if value is number or empty.
-    Return False in value is not number.
+    Return False if the value is not a number.
     '''
     if value.isdigit() or value == '':
         return True
@@ -75,7 +75,7 @@ def _validate_entry(value: str) -> bool:
 
 if __name__ == "__main__":
     root = Tk()
-    root.title("Emotion spammer")
+    root.title("TapTron5000")
     root.geometry('500x150')
     root.wm_resizable(width=False, height=False)
 
